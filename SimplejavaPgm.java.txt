@@ -3,5 +3,6 @@ class Sample
 	public static void main(Strin args[])
 	{
 	System.out.println("Hello java learner");
+	System.out.println("This is a new line);
 	}
 }
